@@ -1,0 +1,5 @@
+_sa_instance_state,id,status,created_at,customer_name,amount
+<sqlalchemy.orm.state.InstanceState object at 0x000002BF7CE8B880>,1,Pending,2025-03-06 09:53:22.522829,John Doe,150.75
+<sqlalchemy.orm.state.InstanceState object at 0x000002BF7CE8B820>,3,complete,2025-03-06 09:53:53.500331,Alice Johnson,200.5
+<sqlalchemy.orm.state.InstanceState object at 0x000002BF7CE8B8E0>,4,Paid,2025-03-06 10:06:52.498561,Stanley Hudson,89.49
+<sqlalchemy.orm.state.InstanceState object at 0x000002BF7CE8B940>,5,Paid,2025-03-06 10:07:13.259820,Stanley Hudson,89.49
