@@ -44,7 +44,7 @@ CVInsight/
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/abdullahaish/invoice-management-system-chatbot.git
-cd CVInsight
+cd invoice-management-system-chatbot
 ```
 
 ### 2️⃣ Create a Virtual Environment
